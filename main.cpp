@@ -56,5 +56,5 @@ int main(){
             cout << ans << endl;
         }       //ujjwal
     }
-
+    return 0;
 }
