@@ -12,7 +12,6 @@ using namespace std;
 #define w ll _; cin >> _; while(_--)
 #define endl "\n"
 #define flush fflush(stdout);
-#define fixedprec cout << fixed << setprecision(18);
 
 int main(){
 
